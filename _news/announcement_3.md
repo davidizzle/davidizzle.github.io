@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The day I spawned :hatching_chick: 
+The day I spawned :hatching_chick:

@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 {:.justify}
 I am Davide Ferretti, currently a software engineer at [Leonardo](https://www.leonardo.com/it/home) — before that, I was an equity investments analyst at [Lingotto Capital](https://www.lingotto.com/).
 
