@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://davidizzle.github.io//sitemap.xml
+Sitemap: https://davidizzle.github.io/sitemap.xml
