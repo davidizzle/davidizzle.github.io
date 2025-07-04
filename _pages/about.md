@@ -36,6 +36,6 @@ Before dabbling in software development, I earned a B.Sc. in Electrical and Comm
 Outside of my studies, I like to explore new technologies trying to build out useful stuff or contributing to open-source — e.g. I was in the Google Summer of Code cohort of 2024 under the mentorship of [Julian Samaroo](https://github.com/jpsamaroo), RSE at MIT's [JuliaLab](https://julia.mit.edu/), whom I helped by contributing to HPC library [Dagger.jl](https://juliaparallel.org/Dagger.jl/stable/).
 
 {:.justify}
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
 
 ---
